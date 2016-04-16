@@ -8,7 +8,7 @@ public class BigNumbersExample {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		BigInteger b = BigInteger.valueOf(5);
+		BigInteger b = BigInteger.valueOf(105);
 		int c = 10;
 		BigInteger d = BigInteger.valueOf(c);
 
